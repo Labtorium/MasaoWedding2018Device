@@ -1,0 +1,2 @@
+- ESP32 DevkitC
+- [Heart rate sensor](https://pulsesensor.com/)
